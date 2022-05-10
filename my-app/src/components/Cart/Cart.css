@@ -1,0 +1,11 @@
+.myflex2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 4%;
+}
+.myflex {
+  display: flex;
+  justify-content: space-between;
+  margin: 2%;
+}
